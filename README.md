@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**heitordnts/heitordnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/heitor-mdantas/)](www.linkedin.com/in/heitor-mdantas/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heitor.dantas17@gmail.com)](mailto:heitor.dantas17@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My name is Heitor Dantas
+(Java | JakartaEE | Spring Boot) 🚀
+- 👩‍💻 Software Enginner @[Nexxto](https://www.nexxto.com/)
+- 🎓 Bachelor's degree in Computer Engineering
+- 🌐 Passionate about computers and electronics
+- 💡 Love to solve problems
+
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
+
