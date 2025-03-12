@@ -2,7 +2,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/heitor-mdantas/)](www.linkedin.com/in/heitor-mdantas/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heitor.dantas17@gmail.com)](mailto:heitor.dantas17@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-heitor.dantas17@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heitor.dantas17@gmail.com)](mailto:heitor.dantas17@gmail.com)
 
 
 ## My name is Heitor Dantas
